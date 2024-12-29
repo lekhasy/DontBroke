@@ -1,0 +1,6 @@
+@DontBroke.API_HostAddress = http://localhost:5244
+
+GET {{DontBroke.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
